@@ -1,2 +1,4 @@
 # SIMPLE-FORM
-Just a simple form that captures users information, nothing fancy!
+Why, hello people of the internet! 
+This is nothing more than a simple form that captures users information.
+It's nothing fancy!
